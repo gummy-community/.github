@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="254"
+   inkscape:export-ydpi="254"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="542.07385"
+       y="637.39716"
+       width="581.67981"
+       height="1368.105"
+       id="rect3240" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffe764;fill-opacity:1;stroke-width:0"
+       id="rect3740"
+       width="500"
+       height="500"
+       x="0"
+       y="0"
+       ry="0" />
+    <g
+       id="g3684">
+      <circle
+         style="fill:#ffe764;fill-opacity:1;stroke-width:0"
+         id="path286"
+         cx="250"
+         cy="250"
+         r="250"
+         inkscape:label="Circle" />
+      <g
+         id="g3674"
+         style="fill:#008080"
+         transform="translate(-5.7220459e-6,23.853514)">
+        <g
+           id="g3666"
+           style="fill:#008080">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,28.63928,-134.10838)"
+             id="text3238"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1066.67px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3240);shape-padding:2.1525;fill:#008080;fill-opacity:1;stroke-width:0"
+             inkscape:label="Letter Y"><tspan
+               x="544.22656"
+               y="1615.6954"
+               id="tspan5096">y</tspan></text>
+        </g>
+        <rect
+           style="fill:#008080;fill-opacity:1;stroke-width:0"
+           id="rect3504"
+           width="30.324001"
+           height="121.96234"
+           x="78.456223"
+           y="91.181732"
+           ry="15.162001" />
+        <rect
+           style="fill:#008080;fill-opacity:1;stroke-width:0"
+           id="rect3504-5"
+           width="30.324001"
+           height="121.96234"
+           x="391.21979"
+           y="91.181732"
+           ry="15.162001" />
+        <rect
+           style="fill:#008080;fill-opacity:1;stroke-width:0"
+           id="rect3504-5-9"
+           width="30.324001"
+           height="121.96234"
+           x="342.845"
+           y="91.181732"
+           ry="15.162001" />
+        <rect
+           style="fill:#008080;fill-opacity:1;stroke-width:0"
+           id="rect3504-5-9-2"
+           width="30.324001"
+           height="121.96234"
+           x="126.83099"
+           y="91.181732"
+           ry="15.162001" />
+      </g>
+    </g>
+  </g>
+</svg>
